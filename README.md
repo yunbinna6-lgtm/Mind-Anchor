@@ -1,9 +1,23 @@
 # 🧠 Mind-Anchor (마인드 앵커)
 > **고령 VIP 고객 인지 건강 리스크 실시간 관제 및 Vapi AI 대화형 안부 케어 솔루션**
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-클릭하여_체험하기-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ambiance-mosaic-unquote.ngrok-free.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-14.1.0-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+---
+
+## 🌐 심사위원용 실시간 라이브 데모 (Live Demo)
+
+> 🔗 **체험 링크**: [https://ambiance-mosaic-unquote.ngrok-free.dev](https://ambiance-mosaic-unquote.ngrok-free.dev)
+>
+> 📌 **접속 가이드**:
+> 1. 위 링크를 클릭합니다.
+> 2. 접속 시 나타나는 보안 안내 화면에서 **`Visit Site`** 버튼을 클릭합니다. (최초 1회)
+> 3. 네이비색 다크 테마의 **인지 건강 관제 대시보드**가 열리며, 실시간 Vapi AI 음성 안부 대화, 4대 신경언어학적 인지 건강 지표 측정 및 종합 소견 리포트 기능을 바로 체험하실 수 있습니다.
+
+---
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-FF6F61?style=for-the-badge)](https://www.langchain.com/langgraph)
 [![Vapi AI](https://img.shields.io/badge/Vapi_AI-Web_SDK-4B0082?style=for-the-badge)](https://vapi.ai/)
